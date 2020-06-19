@@ -1,0 +1,6 @@
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Vasper-N1CK\Desktop\Lesson 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
